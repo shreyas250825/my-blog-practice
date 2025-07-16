@@ -1,3 +1,16 @@
+<<<<<<< HEAD
 body {
   font-family: Arial;
+=======
+<<<<<<< HEAD
+.subscribe-button {
+  background-color: green;
+  padding: 10px;
+  border: none;
+  color: white;
+=======
+body {
+  font-family: Arial;
+>>>>>>> 2f7f32b (Main.css changed)
+>>>>>>> 32eee43 (ci.yml)
 }
